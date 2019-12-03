@@ -1,0 +1,18 @@
+.left {
+    float: left;
+    
+}
+
+.right {
+    float:right;
+    
+}
+
+main {
+    width:800px;
+    margin: 0 auto;
+}
+
+img {
+    transition: all .5s;
+}
